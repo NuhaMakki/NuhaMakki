@@ -1,7 +1,10 @@
-## Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Nuha Makki</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 I'm a Computer Science graduate passionate about software development, seeking to expand knowledge and stay ahead of industry trends. Dedicated to creatively solving challenges and contributing to positive community impact.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuhaMakki)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **NuhaMakki/NuhaMakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -74,8 +77,6 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Nuha Makki</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuhamakki&label=Profile%20views&color=0e75b6&style=flat" alt="nuhamakki" /> </p>
 
