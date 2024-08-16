@@ -6,6 +6,7 @@ I'm a Computer Science graduate passionate about software development, seeking t
 
 
 <h3 align="left">Languages and Tools:</h3>
+<br>
 <p align="left">
   <!-- Programming & Backend Development -->
   <strong>Programming & Backend Development</strong><br>
