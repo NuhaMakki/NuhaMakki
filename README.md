@@ -5,7 +5,7 @@
 I'm a Computer Science graduate passionate about software development, seeking to expand knowledge and stay ahead of industry trends. Dedicated to creatively solving challenges and contributing to positive community impact.
 
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Programming Languages -->
   <strong>Programming Languages</strong><br>
@@ -19,7 +19,7 @@ I'm a Computer Science graduate passionate about software development, seeking t
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
   <br><br>
-
+  
   <!-- Web Development -->
   <strong>Web Development</strong><br>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -48,7 +48,7 @@ I'm a Computer Science graduate passionate about software development, seeking t
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
   </a>
   <br><br>
-
+  
   <!-- Databases -->
   <strong>Databases</strong><br>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -77,6 +77,7 @@ I'm a Computer Science graduate passionate about software development, seeking t
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
