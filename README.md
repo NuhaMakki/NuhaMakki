@@ -30,7 +30,7 @@
 <!-- Top Languages and GitHub Streak Side by Side with Same Height -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhamakki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="Top Languages" style="display: inline-block; margin-right: 20px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuhamakki&theme=dracula&border_radius=10" height="170" alt="GitHub Streak" style="display: inline-block;" />
+ <!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuhamakki&theme=dracula&border_radius=10" height="170" alt="GitHub Streak" style="display: inline-block;" /> -->
 </div>
 
 
