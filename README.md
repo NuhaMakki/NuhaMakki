@@ -178,6 +178,20 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
+
+
+
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://expressjs.com/"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="max-width: 100%;">
+</a></code>
+
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://fastapi.tiangolo.com/"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="max-width: 100%;">
+</a></code>
+
+
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://render.com/"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" style="max-width: 100%;">
+</a></code>
+
+
 </p>
 
 
