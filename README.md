@@ -40,6 +40,13 @@
   
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"><img height="20" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="max-width: 100%;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/dot-net/dot-net-icon.svg"><img height="20" src="https://www.vectorlogo.zone/logos/dot-net/dot-net-icon.svg" style="max-width: 100%;"></a></code>
+
+
+
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/java/java-icon.svg"><img height="20" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Expressjs.png"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Expressjs.png" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://upload.wikimedia.org/wikipedia/commons/a/a4/.NET_Core_Logo.svg"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/.NET_Core_Logo.svg" style="max-width: 100%;"></a></code>
+
 </p>
 
 
