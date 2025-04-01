@@ -86,9 +86,11 @@
 </a>
 
 
+
 <a href="https://github.com/nuhamakki">
-  <img align="center" src="https://github-readme-stats-zeta-eight-66.vercel.app/api/top-langs/?username=nuhamakki&hide=cuda,c,cython,cplusplus&theme=dark">
+  <img align="center" src="https://github-readme-stats-zeta-eight-66.vercel.app/api/top-langs/?username=nuhamakki&langs_count=6&theme=dark" style="max-width: 100%;">
 </a>
+
 
 
 
