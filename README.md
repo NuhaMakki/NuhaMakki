@@ -93,6 +93,14 @@
 </a>
 
 
+<a href="https://github.com/nuhamakki">
+  <img align="center" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+</a>
+
+
+
 
 
 <h2 align="left">Languages and Tools:</h2>
