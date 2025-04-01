@@ -81,6 +81,11 @@
   <img align="center" src="https://github-readme-stats-zeta-eight-66.vercel.app/api/top-langs/?username=nuhamakki&langs_count=6&theme=dark" style="max-width: 100%;">
 </a>
 
+<a href="https://github.com/nuhamakki">
+  <img align="center" src="https://github-readme-stats-zeta-eight-66.vercel.app/api/top-langs/?username=nuhamakki&include_langs=python,csharp,javascript,html,css&theme=dark">
+</a>
+
+
 
 
 <h2 align="left">Languages and Tools:</h2>
