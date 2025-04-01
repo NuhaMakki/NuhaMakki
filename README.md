@@ -52,6 +52,7 @@
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"></a></code>
     <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="max-width: 90%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://fastapi.tiangolo.com/"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="max-width: 100%;"></a></code>
 </p>
 
 <p dir="auto"><strong>Databases:</strong></p>
@@ -60,10 +61,6 @@
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.sqlalchemy.org/"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="max-width: 100%;">
 </a></code>
-
-
-
-
 </p>
 
 
@@ -73,13 +70,6 @@
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="max-width: 100%;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="max-width: 100%;"></a></code>
     <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"></a></code>
-
-  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://expressjs.com/"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" style="max-width: 100%;">
-</a></code>
-
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://render.com/"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloud/cloud-original.svg" style="max-width: 100%;">
-</a></code>
-
 </p>
 
 <br><br>
@@ -185,20 +175,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
-
-
-
-  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://expressjs.com/"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="max-width: 100%;">
-</a></code>
-
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://fastapi.tiangolo.com/"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="max-width: 100%;">
-</a></code>
-
-
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://render.com/"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" style="max-width: 100%;">
-</a></code>
-
-
 </p>
 
 
