@@ -105,8 +105,9 @@
 
 
 <a href="https://github.com/nuhamakki">
-  <img align="center" src="https://camo.githubusercontent.com/320433844c7a2f6011574c3404375bb052e10970ce511956b64cf0581c1806dc/68747470733a2f2f796f75722d76657263656c2d6170702e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e7568616d616b6b69266c616e67735f636f756e743d36267468656d653d6461726b" data-canonical-src="https://github-readme-stats-zeta-eight-66.vercel.app/api/top-langs/?username=nuhamakki&amp;langs_count=6&amp;theme=dark" style="max-width: 100%;">
+  <img align="center" src="https://github-readme-stats-zeta-eight-66.vercel.app/api/top-langs/?username=nuhamakki&langs_count=6&theme=dark" style="max-width: 100%;">
 </a>
+
 
 
 <h2 align="left">Languages and Tools:</h2>
