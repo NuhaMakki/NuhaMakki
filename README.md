@@ -43,6 +43,7 @@
 
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" style="max-width: 100%;"></a></code>
 
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" style="max-width: 100%;"></a></code>
 
 
 </p>
