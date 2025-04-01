@@ -91,6 +91,12 @@
 
 
 
+<a href="https://github.com/nuhamakki">
+  <img align="center" src="https://github-stats-ex8ljfm8v-nuha-makkis-projects.vercel.app/api/github-stats" style="max-width: 100%;">
+</a>
+
+
+
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <!-- Programming & Backend Development -->
