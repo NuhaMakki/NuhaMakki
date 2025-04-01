@@ -87,7 +87,7 @@
 
 <br><br>
 ## 📬 Connect with Me
-feel free to connect!
+Feel free to reach out for collaboration or to discuss tech! You can email me, or connect with me on LinkedIn or GitHub.
 
 <div align="center">
 
