@@ -71,38 +71,11 @@
     <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"></a></code>
 </p>
 
-<br><br>
 
-
-<!-- Top Languages and GitHub Streak Side by Side with Same Height -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhamakki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="Top Languages" style="display: inline-block; margin-right: 20px;" />
- <!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuhamakki&theme=dracula&border_radius=10" height="170" alt="GitHub Streak" style="display: inline-block;" /> -->
-</div>
-
-
-
-<br><br>
 
 <a href="https://github.com/nuhamakki">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhamakki&langs_count=6&theme=dark" style="max-width: 100%;">
 </a>
-
-
-
-<a href="https://github.com/nuhamakki">
-  <img align="center" src="https://github-stats-ex8ljfm8v-nuha-makkis-projects.vercel.app/api/github-stats" style="max-width: 100%;">
-</a>
-
-<a href="https://github.com/nuhamakki">
-  <img align="center" src="https://github-stats-api-two.vercel.app/api/top-langs/?username=nuhamakki&langs_count=6&theme=dark&private=true" style="max-width: 100%;">
-</a>
-
-
-<a href="https://github.com/nuhamakki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhamakki&langs_count=6&theme=dark&private=true&token=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" style="max-width: 100%;">
-</a>
-
 
 <a href="https://github.com/nuhamakki">
   <img align="center" src="https://github-readme-stats-zeta-eight-66.vercel.app/api/top-langs/?username=nuhamakki&langs_count=6&theme=dark" style="max-width: 100%;">
