@@ -72,6 +72,27 @@
 </p>
 
 
+<p dir="auto"><strong>Tools:</strong></p>
+<p dir="auto">
+  <!-- AWS -->
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" style="max-width: 100%;"></a></code>
+
+  <!-- Figma -->
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"></a></code>
+
+  <!-- Heroku -->
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="max-width: 100%;"></a></code>
+
+  <!-- Render -->
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Render-logo.svg/120px-Render-logo.svg.png"><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Render-logo.svg/120px-Render-logo.svg.png" style="max-width: 100%;"></a></code>
+
+  <!-- Postman -->
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="max-width: 100%;"></a></code>
+
+  <!-- FastAPI -->
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://upload.wikimedia.org/wikipedia/commons/8/80/FastAPI_logo.svg"><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/8/80/FastAPI_logo.svg" style="max-width: 100%;"></a></code>
+</p>
+
 
 
 <!-- Top Languages and GitHub Streak Side by Side with Same Height -->
