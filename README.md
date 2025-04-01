@@ -56,12 +56,8 @@
 
 <p dir="auto"><strong>Databases:</strong></p>
 <p dir="auto">
-  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="max-width: 100%;">
-  </a></code>
-  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
-  </a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg"><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" style="max-width: 100%;"></a></code>
 </p>
 
 
