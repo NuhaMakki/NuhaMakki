@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/e8c3a76f-f19e-4d18-b4ca-d9ad255348d4)
 <!-- Profile Views Badge -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nuhamakki&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"
