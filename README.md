@@ -96,7 +96,7 @@
 </a>
 
 <a href="https://github.com/nuhamakki">
-  <img align="center" src="https://your-vercel-instance.vercel.app/api/top-langs/?username=nuhamakki&langs_count=6&theme=dark&private=true" style="max-width: 100%;">
+  <img align="center" src="https://github-stats-api-two.vercel.app/api/top-langs/?username=nuhamakki&langs_count=6&theme=dark&private=true" style="max-width: 100%;">
 </a>
 
 
