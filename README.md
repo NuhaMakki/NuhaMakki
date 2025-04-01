@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/e8c3a76f-f19e-4d18-b4ca-d9ad255348d4)
 <!-- Profile Views Badge -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nuhamakki&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"
@@ -98,6 +98,12 @@
 <a href="https://github.com/nuhamakki">
   <img align="center" src="https://github-stats-api-two.vercel.app/api/top-langs/?username=nuhamakki&langs_count=6&theme=dark&private=true" style="max-width: 100%;">
 </a>
+
+
+<a href="https://github.com/nuhamakki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhamakki&langs_count=6&theme=dark&private=true&token=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" style="max-width: 100%;">
+</a>
+
 
 
 
