@@ -37,14 +37,12 @@
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" style="max-width: 100%;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" style="max-width: 100%;"></a></code>
-<p dir="auto">
-  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://icons8.com/icons/set/java"><img height="20" src="https://img.icons8.com/ios/452/java.png" style="max-width: 100%;"></a></code>
-  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://icons8.com/icons/set/express-js"><img height="20" src="https://img.icons8.com/ios/452/express-js.png" style="max-width: 100%;"></a></code>
-  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://icons8.com/icons/set/net-framework"><img height="20" src="https://img.icons8.com/ios/452/net-framework.png" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/java/java-icon.svg"><img height="20" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"><img height="20" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vectorlogo.zone/logos/dot-net/dot-net-icon.svg"><img height="20" src="https://www.vectorlogo.zone/logos/dot-net/dot-net-icon.svg" style="max-width: 100%;"></a></code>
 </p>
 
-  
-</p>
+
 
 
 <p dir="auto"><strong>Web Development:</strong></p>
