@@ -73,6 +73,13 @@
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="max-width: 100%;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="max-width: 100%;"></a></code>
     <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"></a></code>
+
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://expressjs.com/"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" style="max-width: 100%;">
+</a></code>
+
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://render.com/"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloud/cloud-original.svg" style="max-width: 100%;">
+</a></code>
+
 </p>
 
 <br><br>
