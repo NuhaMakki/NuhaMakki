@@ -71,7 +71,7 @@
     <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"></a></code>
 </p>
 
-
+<br><br>
 
 <a href="https://github.com/nuhamakki">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhamakki&langs_count=6&theme=dark" style="max-width: 100%;">
@@ -81,23 +81,7 @@
   <img align="center" src="https://github-readme-stats-zeta-eight-66.vercel.app/api/top-langs/?username=nuhamakki&langs_count=6&theme=dark" style="max-width: 100%;">
 </a>
 
-<a href="https://github.com/nuhamakki">
-  <img align="center" src="https://github-readme-stats-zeta-eight-66.vercel.app/api/top-langs/?username=nuhamakki&langs_count=6&theme=dark&hide=c%2B%2B,cython,c,cuda" style="max-width: 100%;">
-</a>
 
-
-
-
-<a href="https://github.com/nuhamakki">
-  <img align="center" src="https://github-readme-stats-zeta-eight-66.vercel.app/api/top-langs/?username=nuhamakki&langs_count=6&theme=dark" style="max-width: 100%;">
-</a>
-
-
-<a href="https://github.com/nuhamakki">
-  <img align="center" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-</a>
 
 
 
