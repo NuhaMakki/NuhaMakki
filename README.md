@@ -75,17 +75,14 @@
 <br><br>
 
 <a href="https://github.com/nuhamakki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhamakki&langs_count=9&theme=dark" style="max-width: 100%;">
-</a>
-
-<a href="https://github.com/nuhamakki">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhamakki&langs_count=7&theme=dark" style="max-width: 100%;">
 </a>
 
-
+<!--
 <a href="https://github.com/nuhamakki">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhamakki&langs_count=7&layout=compact&theme=dark" style="max-width: 100%;">
 </a>
+-->
 
 
 <!--
