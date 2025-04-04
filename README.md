@@ -75,7 +75,7 @@
 <br><br>
 
 <a href="https://github.com/nuhamakki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhamakki&langs_count=8&theme=dark" style="max-width: 100%;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhamakki&langs_count=9&theme=dark" style="max-width: 100%;">
 </a>
 
 
